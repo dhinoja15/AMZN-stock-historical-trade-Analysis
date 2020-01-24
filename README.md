@@ -3,7 +3,7 @@
 *********Welcome to Amazon Stock Analysis***********
 
 This Java program analyze Amazon stock data for past 1 year.
-I used Java 13 to develop this Code.
+I used Java 13.0.1 to develop this Code. No external Jar or database required to run this program.
 
 Input:
 HistoricalQuotes.csv-> Reading Data from this file.
